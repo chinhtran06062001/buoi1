@@ -75,7 +75,8 @@ Các bạn bật git bash lên và thực hiện cấu hình địa chỉ email 
 
  (note: 2 dấu – ko cách)
  
-![image](https://user-images.githubusercontent.com/86233788/166646481-f5f7260e-eff4-4c4d-9544-f12109019679.png)
+![image](https://user-images.githubusercontent.com/97047640/166664626-385b14c9-bafd-415d-82bb-e5ba70619296.png)
+
 
 Sau khi cấu hình xong, chúng ta cần kết nối local với server.
 
@@ -116,17 +117,17 @@ b. Add SSH Key vào server git hub
 
 Bây giờ bạn vào trang git hub, bạn đăng nhập vào rồi vào mục account chọn setting
 
-![image](https://user-images.githubusercontent.com/86233788/166648164-cb4ade49-b37a-45f5-aab0-26e61bf4f926.png)
+![image](https://user-images.githubusercontent.com/97047640/166664734-e25b0d42-6e67-4bff-88f7-71fea0ef4d45.png)
 
 Bạn nhấn chọn vào SSH and GPG keys
 
-![image](https://user-images.githubusercontent.com/86233788/166648299-1c726bf8-713f-46ab-8dc6-53f93cc709f7.png)
+![image](https://user-images.githubusercontent.com/97047640/166664804-cbcadb92-e54b-43ea-b1b2-bd6828463ef7.png)
 
 Tại đây bạn có thể thấy hiện có bao nhiêu máy local được kết nối với server của bạn, bạn có thể thêm hoặc remove các tài khoản.
 
 Bạn chọn New SSH Key để add key của bạn vào.
 
-![image](https://user-images.githubusercontent.com/86233788/166648581-0af7dc1c-4d8f-4213-92b9-f231796707ba.png)
+![image](https://user-images.githubusercontent.com/97047640/166664836-035c4732-cb95-4162-9463-16d2643e28eb.png)
 
 – Tiêu đề nên chọn tên của người code. Ví dụ bạn làm việc theo team, bạn nên để tên của các thành viên để dễ quản lý.
 
